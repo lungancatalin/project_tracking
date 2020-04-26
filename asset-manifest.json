@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project_tracking/static/css/main.fef066b4.chunk.css",
+    "main.js": "/project_tracking/static/js/main.daa50c8a.chunk.js",
+    "main.js.map": "/project_tracking/static/js/main.daa50c8a.chunk.js.map",
+    "runtime-main.js": "/project_tracking/static/js/runtime-main.0f5ba882.js",
+    "runtime-main.js.map": "/project_tracking/static/js/runtime-main.0f5ba882.js.map",
+    "static/js/2.70094262.chunk.js": "/project_tracking/static/js/2.70094262.chunk.js",
+    "static/js/2.70094262.chunk.js.map": "/project_tracking/static/js/2.70094262.chunk.js.map",
+    "index.html": "/project_tracking/index.html",
+    "precache-manifest.1105124c957bd406578fbacad20c52bd.js": "/project_tracking/precache-manifest.1105124c957bd406578fbacad20c52bd.js",
+    "service-worker.js": "/project_tracking/service-worker.js",
+    "static/css/main.fef066b4.chunk.css.map": "/project_tracking/static/css/main.fef066b4.chunk.css.map",
+    "static/js/2.70094262.chunk.js.LICENSE.txt": "/project_tracking/static/js/2.70094262.chunk.js.LICENSE.txt",
+    "static/media/icon-close.svg": "/project_tracking/static/media/icon-close.f563a0c6.svg",
+    "static/media/icon-hamburger.svg": "/project_tracking/static/media/icon-hamburger.4648b31c.svg",
+    "static/media/illustration-devices.svg": "/project_tracking/static/media/illustration-devices.d8da55ea.svg",
+    "static/media/logo.svg": "/project_tracking/static/media/logo.dfc21d9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f5ba882.js",
+    "static/js/2.70094262.chunk.js",
+    "static/css/main.fef066b4.chunk.css",
+    "static/js/main.daa50c8a.chunk.js"
+  ]
+}
